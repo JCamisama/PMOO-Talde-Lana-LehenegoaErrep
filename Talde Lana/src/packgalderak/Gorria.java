@@ -5,6 +5,8 @@ public class Gorria {
 }
 public Galderak (String pGaldera, String pErantzunaA, String pErantzunaB, String pErantzunaC, String pErantzunaD, String pErantzunZuzena, boolean pEspeziala) {
 		
+		//Lolis forever
+	
 		this.galdera = pGaldera; 
 		this.erantzunaA = pErantzunaA;
 		this.erantzunaB = pErantzunaB;
